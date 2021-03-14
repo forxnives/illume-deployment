@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a2a707f.chunk.css",
+    "main.js": "/static/js/main.b53d8dd2.chunk.js",
+    "main.js.map": "/static/js/main.b53d8dd2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e526d525.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e526d525.js.map",
+    "static/css/2.27865ce1.chunk.css": "/static/css/2.27865ce1.chunk.css",
+    "static/js/2.4bac4d1f.chunk.js": "/static/js/2.4bac4d1f.chunk.js",
+    "static/js/2.4bac4d1f.chunk.js.map": "/static/js/2.4bac4d1f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3303ea7a1692ad35ab137cb9ddae8bc2.js": "/precache-manifest.3303ea7a1692ad35ab137cb9ddae8bc2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.27865ce1.chunk.css.map": "/static/css/2.27865ce1.chunk.css.map",
+    "static/css/main.7a2a707f.chunk.css.map": "/static/css/main.7a2a707f.chunk.css.map",
+    "static/js/2.4bac4d1f.chunk.js.LICENSE.txt": "/static/js/2.4bac4d1f.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/pen_paper.2f046273.jpg",
+    "static/media/happy_senior.png": "/static/media/happy_senior.e8386730.png",
+    "static/media/basic-icons.css": "/static/media/linea-basic-10.e6763f00.ttf",
+    "static/media/e-commerce-icons.css": "/static/media/linea-ecommerce-10.ffd2088e.eot",
+    "static/media/man_bench.jpg": "/static/media/man_bench.615e5023.jpg",
+    "static/media/past.png": "/static/media/past.a8a3528b.png",
+    "static/media/woman_shopping.png": "/static/media/woman_shopping.8ea3845f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e526d525.js",
+    "static/css/2.27865ce1.chunk.css",
+    "static/js/2.4bac4d1f.chunk.js",
+    "static/css/main.7a2a707f.chunk.css",
+    "static/js/main.b53d8dd2.chunk.js"
+  ]
+}
